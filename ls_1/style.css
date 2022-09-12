@@ -1,0 +1,19 @@
+body{
+    width: 1440px;
+}
+
+ul,
+li{
+  list-style: none;
+}
+
+img{
+  max-width: 100%;
+  display: block;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
